@@ -14,7 +14,7 @@ export default {
   props: {
     src: {
       type: String,
-      default: 'http://gcqq450f71eywn6bv7u.exp.bcevod.com/mda-hiup6h1qdymgf3fe/mda-hiup6h1qdymgf3fe.m3u8'
+      default: 'https://download.cloud.189.cn/file/downloadFile.action?dt=52&expired=1661272654316&sk=F5F475B8ED84DB5CAA0E8BCBF3542F53&ufi=31335116692257720&zyc=5&token=cloud16&sig=Zq5WHSuRXl8K94tZRXpekd8s0kk%3D'
     }
   },
   data () {
